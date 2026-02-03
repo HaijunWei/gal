@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "gal",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}

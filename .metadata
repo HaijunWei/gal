@@ -4,8 +4,8 @@
 # This file should be version controlled and should not be manually edited.
 
 version:
-  revision: "123453dc41ef48e717939dd3c012db6a23138895"
-  channel: "beta"
+  revision: "419a77c14020611c153e4aca3ab0abf33dedd2ba"
+  channel: "[user-branch]"
 
 project_type: plugin
 
@@ -13,20 +13,23 @@ project_type: plugin
 migration:
   platforms:
     - platform: root
-      create_revision: 123453dc41ef48e717939dd3c012db6a23138895
-      base_revision: 123453dc41ef48e717939dd3c012db6a23138895
+      create_revision: 419a77c14020611c153e4aca3ab0abf33dedd2ba
+      base_revision: 419a77c14020611c153e4aca3ab0abf33dedd2ba
     - platform: android
-      create_revision: 123453dc41ef48e717939dd3c012db6a23138895
-      base_revision: 123453dc41ef48e717939dd3c012db6a23138895
+      create_revision: 419a77c14020611c153e4aca3ab0abf33dedd2ba
+      base_revision: 419a77c14020611c153e4aca3ab0abf33dedd2ba
     - platform: ios
-      create_revision: 123453dc41ef48e717939dd3c012db6a23138895
-      base_revision: 123453dc41ef48e717939dd3c012db6a23138895
+      create_revision: 419a77c14020611c153e4aca3ab0abf33dedd2ba
+      base_revision: 419a77c14020611c153e4aca3ab0abf33dedd2ba
     - platform: macos
-      create_revision: 123453dc41ef48e717939dd3c012db6a23138895
-      base_revision: 123453dc41ef48e717939dd3c012db6a23138895
+      create_revision: 419a77c14020611c153e4aca3ab0abf33dedd2ba
+      base_revision: 419a77c14020611c153e4aca3ab0abf33dedd2ba
     - platform: windows
-      create_revision: 123453dc41ef48e717939dd3c012db6a23138895
-      base_revision: 123453dc41ef48e717939dd3c012db6a23138895
+      create_revision: 419a77c14020611c153e4aca3ab0abf33dedd2ba
+      base_revision: 419a77c14020611c153e4aca3ab0abf33dedd2ba
+    - platform: ohos
+      create_revision: 419a77c14020611c153e4aca3ab0abf33dedd2ba
+      base_revision: 419a77c14020611c153e4aca3ab0abf33dedd2ba
 
   # User provided section
 

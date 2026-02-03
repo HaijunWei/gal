@@ -32,6 +32,9 @@ flutter:
       android:
         package: studio.midoridesign.gal
         pluginClass: GalPlugin
+      ohos:
+        package: studio.midoridesign.gal
+        pluginClass: GalPlugin
       ios:
         pluginClass: GalPlugin
         sharedDarwinSource: true
